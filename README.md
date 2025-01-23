@@ -125,17 +125,8 @@ DELETE /api/books/978-0743273565
 This API allows you to manage books in a simple library system. The data is stored in-memory, and the API supports standard CRUD operations.
 ```
 
-### **3. Screenshots of API Responses**:
+## Screenshots of API Responses:
 ![API](Screenshots/LibraryManagementAPI.jpeg)
 
 
 
-### **Assessment Criteria**:
-- **Functionality**: All endpoints must work as described.
-- **Code Quality**: The code is modular, adheres to OOP principles, and is easy to understand.
-- **RESTful Standards**: The API uses appropriate HTTP methods and status codes.
-- **Documentation**: The README includes clear instructions on how to run and test the API.
-
----
-
-By following this structure and submitting the source code files along with the detailed README, you should meet all the requirements of the assignment. If you have any further questions or need additional help with specific sections, feel free to ask!
