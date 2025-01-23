@@ -123,7 +123,7 @@ DELETE /api/books/978-0743273565
 ## Conclusion
 
 This API allows you to manage books in a simple library system. The data is stored in-memory, and the API supports standard CRUD operations.
-```
+
 
 ## Screenshots of API Responses:
 ![API](Screenshots/LibraryManagementAPI.jpeg)
